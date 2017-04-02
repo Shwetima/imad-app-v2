@@ -16,5 +16,5 @@ button.onclick= function(){
    
     
 };
-request.open('GET', 'http://http://shwetima.imad.hasura-app.io/');
+request.open('GET', 'http://http://shwetima.imad.hasura-app.io/counter');
 };
